@@ -46,4 +46,4 @@ Address Lines
 -----------+-------+-------------+-----------------------------+
 ```
 
-there are three differt codes: "Logo", "Hello, World!" and "screensaver"
+There are three differt codes: "Logo", "Hello, World!" and "screensaver" for testing my PCB (https://github.com/Boogs77/BO6502/blob/main/BO6502%20BIGLCD/export/BO6502-LCDBIG.pdf) e one code for testing only LCD DS-G160128STBWW based on chip RA6963
