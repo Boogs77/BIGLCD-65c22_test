@@ -46,3 +46,4 @@ Address Lines
 -----------+-------+-------------+-----------------------------+
 ```
 
+there are three differt codes: "Logo", "Hello, World!" and "screensaver"
