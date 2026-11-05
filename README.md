@@ -8,7 +8,7 @@ LCD & USD control lines
   ARD MEGA  | Port  | Display pcb |  Function - 8080 Parallel   |
 -----------+-------+-------------+-----------------------------+
  5V        |       |     vcc     |  POWER                      |
- GND	      |       |     gnd     |  GROUND                     |
+ GND	     |       |     gnd     |  GROUND                     |
 -----------+-------+-------------+-----------------------------+
  D8        | PD0   |     ~R/W    |  Data Read Write (/WR)(/RD) |
  D9        | PD1   |     ~IRQ    |  Interrupt Request          |
